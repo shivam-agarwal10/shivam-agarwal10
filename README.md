@@ -1,10 +1,13 @@
-## Hi there 👋
+## Hi there 👋 Welcome to my project portfolio
 👩‍💻 Data Analyst @Ai Variant <br>
 🚀 IBM and Google Certified Data Analyst. <br>
 🎯 Passionate about converting data into insights and building frameworks for decision-making. <br>
 👯 I’m looking to collaborate on Datasets for Analysis and Visualization projects.<br>
 🌱 I’m currently learning Machine Learning and Python.<br>
 ⚡ Fun fact - I love to pay attention to details :) <br>
+
+## 🌐 Socials:
+https://www.linkedin.com/in/shivam-agarwal-b2a42a132/
 <!--
 **shivam-agarwal10/shivam-agarwal10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
