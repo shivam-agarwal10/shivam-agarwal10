@@ -7,7 +7,7 @@
 ⚡ Fun fact - I love to pay attention to details :) <br>
 
 ## 🌐 Socials:
-https://www.linkedin.com/in/shivam-agarwal-b2a42a132/
+LinkedIn - https://www.linkedin.com/in/shivam-agarwal-b2a42a132/
 <!--
 **shivam-agarwal10/shivam-agarwal10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
