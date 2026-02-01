@@ -8,6 +8,9 @@
 
 ## 🌐 Socials:
 LinkedIn - https://www.linkedin.com/in/shivam-agarwal-b2a42a132/
+
+## 💻 Tech Stack:
+Python MySQL PowerBI Tableau MS-Excel
 <!--
 **shivam-agarwal10/shivam-agarwal10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
