@@ -1,5 +1,5 @@
 ## Hi there 👋 Welcome to my project portfolio
-👩‍💻 Data Analyst @Ai Variant <br>
+👩‍💻 Senior Analyst @ Hexaware <br>
 🚀 IBM and Google Certified Data Analyst. <br>
 🎯 Passionate about converting data into insights and building frameworks for decision-making. <br>
 👯 I’m looking to collaborate on Datasets for Analysis and Visualization projects.<br>
